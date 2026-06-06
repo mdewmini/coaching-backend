@@ -2,10 +2,6 @@
 
 A private coaching application REST API built with Spring Boot.
 
-## Live Demo
-- Backend API: Coming soon
-- Frontend: Coming soon
-
 ## GitHub Repositories
 - Backend: https://github.com/mdewmini/coaching-backend
 - Frontend: https://github.com/mdewmini/coaching-frontend
